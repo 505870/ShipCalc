@@ -1,0 +1,60 @@
+c:\users\admin\documents\visual studio 2013\Projects\shipCalc\shipCalc\bin\Debug\shipCalc.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\shipCalc\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\shipCalc\shipCalc\bin\Debug\shipCalc.exe
+c:\users\admin\documents\visual studio 2013\Projects\shipCalc\shipCalc\bin\Debug\shipCalc.pdb
+c:\users\admin\documents\visual studio 2013\Projects\shipCalc\shipCalc\obj\Debug\shipCalc.exe
+c:\users\admin\documents\visual studio 2013\Projects\shipCalc\shipCalc\obj\Debug\shipCalc.pdb
+G:\수업자료\선박계산\shipCalc\shipCalc\bin\Debug\shipCalc.exe.config
+G:\수업자료\선박계산\shipCalc\shipCalc\obj\Debug\shipCalc.exe
+G:\수업자료\선박계산\shipCalc\shipCalc\obj\Debug\shipCalc.pdb
+H:\수업자료\선박계산\shipCalc\shipCalc\bin\Debug\shipCalc.exe.config
+H:\수업자료\선박계산\shipCalc\shipCalc\obj\Debug\shipCalc.exe
+H:\수업자료\선박계산\shipCalc\shipCalc\obj\Debug\shipCalc.pdb
+H:\수업자료\선박계산\shipCalc\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
+H:\수업자료\선박계산\shipCalc\shipCalc\bin\Debug\shipCalc.exe
+H:\수업자료\선박계산\shipCalc\shipCalc\bin\Debug\shipCalc.pdb
+G:\수업자료\선박계산\shipCalc(원본)\shipCalc\bin\Debug\shipCalc.exe.config
+G:\수업자료\선박계산\shipCalc(원본)\shipCalc\obj\Debug\shipCalc.exe
+G:\수업자료\선박계산\shipCalc(원본)\shipCalc\obj\Debug\shipCalc.pdb
+G:\수업자료\선박계산\shipCalc(원본)\shipCalc\bin\Debug\shipCalc.exe
+G:\수업자료\선박계산\shipCalc(원본)\shipCalc\bin\Debug\shipCalc.pdb
+G:\수업자료\선박계산\shipCalc(원본)\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
+G:\수업자료\선박계산\shipCalc\shipCalc\bin\Debug\shipCalc.exe
+G:\수업자료\선박계산\shipCalc\shipCalc\bin\Debug\shipCalc.pdb
+G:\수업자료\선박계산\shipCalc\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
+C:\Users\34\Desktop\선박계산-20113681-강지훈-01\shipCalc\bin\Debug\shipCalc.exe.config
+C:\Users\34\Desktop\선박계산-20113681-강지훈-01\shipCalc\obj\Debug\shipCalc.exe
+C:\Users\34\Desktop\선박계산-20113681-강지훈-01\shipCalc\obj\Debug\shipCalc.pdb
+C:\Users\34\Desktop\선박계산-20113681-강지훈-01\shipCalc\bin\Debug\shipCalc.exe
+C:\Users\34\Desktop\선박계산-20113681-강지훈-01\shipCalc\bin\Debug\shipCalc.pdb
+C:\Users\34\Desktop\선박계산-20113681-강지훈-01\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
+G:\선박계산-20113681-강지훈-01\shipCalc\bin\Debug\shipCalc.exe.config
+G:\선박계산-20113681-강지훈-01\shipCalc\obj\Debug\shipCalc.exe
+G:\선박계산-20113681-강지훈-01\shipCalc\obj\Debug\shipCalc.pdb
+G:\선박계산-20113681-강지훈-01\shipCalc\bin\Debug\shipCalc.exe
+G:\선박계산-20113681-강지훈-01\shipCalc\bin\Debug\shipCalc.pdb
+G:\선박계산-20113681-강지훈-01\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
+C:\Users\은하\Desktop\선박계산-20113681-강지훈-01\shipCalc\bin\Debug\shipCalc.exe.config
+C:\Users\은하\Desktop\선박계산-20113681-강지훈-01\shipCalc\obj\Debug\shipCalc.exe
+C:\Users\은하\Desktop\선박계산-20113681-강지훈-01\shipCalc\obj\Debug\shipCalc.pdb
+C:\Users\은하\Desktop\선박계산-20113681-강지훈-01\shipCalc\bin\Debug\shipCalc.exe
+C:\Users\은하\Desktop\선박계산-20113681-강지훈-01\shipCalc\bin\Debug\shipCalc.pdb
+C:\Users\은하\Desktop\선박계산-20113681-강지훈-01\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
+G:\선박계산-20113681-강지훈-01_1212백업\shipCalc\bin\Debug\shipCalc.exe.config
+G:\선박계산-20113681-강지훈-01_1212백업\shipCalc\obj\Debug\shipCalc.exe
+G:\선박계산-20113681-강지훈-01_1212백업\shipCalc\obj\Debug\shipCalc.pdb
+G:\선박계산-20113681-강지훈-01_1212백업\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
+G:\선박계산-20113681-강지훈-01_1212백업\shipCalc\bin\Debug\shipCalc.exe
+G:\선박계산-20113681-강지훈-01_1212백업\shipCalc\bin\Debug\shipCalc.pdb
+G:\선박계산-20113681-강지훈-01_1213백업\shipCalc\bin\Debug\shipCalc.exe.config
+G:\선박계산-20113681-강지훈-01_1213백업\shipCalc\obj\Debug\shipCalc.exe
+G:\선박계산-20113681-강지훈-01_1213백업\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
+G:\선박계산-20113681-강지훈-01_1213백업\shipCalc\bin\Debug\shipCalc.exe
+G:\선박계산-20113681-강지훈-01_1213백업\shipCalc\bin\Debug\shipCalc.pdb
+G:\선박계산-20113681-강지훈-01_1213백업\shipCalc\obj\Debug\shipCalc.pdb
+G:\Report4-20113681-강지훈\shipCalc\bin\Debug\shipCalc.exe.config
+G:\Report4-20113681-강지훈\shipCalc\obj\Debug\shipCalc.exe
+G:\Report4-20113681-강지훈\shipCalc\obj\Debug\shipCalc.pdb
+G:\Report4-20113681-강지훈\shipCalc\bin\Debug\shipCalc.exe
+G:\Report4-20113681-강지훈\shipCalc\bin\Debug\shipCalc.pdb
+G:\Report4-20113681-강지훈\shipCalc\obj\Debug\shipCalc.csprojResolveAssemblyReference.cache
